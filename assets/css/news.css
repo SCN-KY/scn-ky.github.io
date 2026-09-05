@@ -325,7 +325,7 @@
 
 .article-content {
     padding: 4rem 0;
-    margin-top: 4rem;
+    margin-top: 6rem !important;
 }
 
 .full-article {
